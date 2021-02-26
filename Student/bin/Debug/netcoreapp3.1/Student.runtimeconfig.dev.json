@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/roghic/.dotnet/store/|arch|/|tfm|",
+      "/Users/roghic/.nuget/packages"
+    ]
+  }
+}

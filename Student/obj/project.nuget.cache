@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LvL/cW6DxK+Je1SsJNCeFG/DOPmV4svVdInEJX7iu300oa2CdJerJ99n4inHKZFnutlBUojn/U/oyPeXLIuSkg==",
+  "success": true,
+  "projectFilePath": "/Users/roghic/Projects/Student/Student/Student.csproj",
+  "expectedPackageFiles": [
+    "/Users/roghic/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

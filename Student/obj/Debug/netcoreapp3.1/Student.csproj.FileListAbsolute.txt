@@ -1,0 +1,14 @@
+/Users/roghic/Projects/Student/Student/obj/Debug/netcoreapp3.1/Student.csprojAssemblyReference.cache
+/Users/roghic/Projects/Student/Student/obj/Debug/netcoreapp3.1/Student.AssemblyInfoInputs.cache
+/Users/roghic/Projects/Student/Student/obj/Debug/netcoreapp3.1/Student.AssemblyInfo.cs
+/Users/roghic/Projects/Student/Student/obj/Debug/netcoreapp3.1/Student.csproj.CoreCompileInputs.cache
+/Users/roghic/Projects/Student/Student/bin/Debug/netcoreapp3.1/Student.deps.json
+/Users/roghic/Projects/Student/Student/bin/Debug/netcoreapp3.1/Student.runtimeconfig.json
+/Users/roghic/Projects/Student/Student/bin/Debug/netcoreapp3.1/Student.runtimeconfig.dev.json
+/Users/roghic/Projects/Student/Student/bin/Debug/netcoreapp3.1/Student.dll
+/Users/roghic/Projects/Student/Student/bin/Debug/netcoreapp3.1/Student.pdb
+/Users/roghic/Projects/Student/Student/obj/Debug/netcoreapp3.1/Student.dll
+/Users/roghic/Projects/Student/Student/obj/Debug/netcoreapp3.1/Student.pdb
+/Users/roghic/Projects/Student/Student/obj/Debug/netcoreapp3.1/Student.genruntimeconfig.cache
+/Users/roghic/Projects/Student/Student/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/roghic/Projects/Student/Student/obj/Debug/netcoreapp3.1/Student.csproj.CopyComplete
